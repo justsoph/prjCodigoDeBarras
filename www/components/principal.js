@@ -25,3 +25,5 @@ $(document).on("click", "#barras", function(){
       }
    );
 });
+
+ $("#leitura").text(leitura);
